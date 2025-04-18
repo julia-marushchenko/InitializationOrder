@@ -4,9 +4,9 @@ package com;
 // Initialization class
 public class Initialization {
 
-    // Static class' field
+    // Static field of class
     static int index = callMe(1);
-    // Class' field
+    // Field of class
     int index1 = callMe(2);
 
     // Constructor
